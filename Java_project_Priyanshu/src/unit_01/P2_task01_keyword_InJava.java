@@ -7,6 +7,9 @@ public class P2_task01_keyword_InJava {
 		int char = 5;   // Syntax error on token "char", invalid VariableDeclaratorId
 		
 		System.out.println(char);
+		int a = 10 ; 
+		System.out.println(a);
+		
 		
 	}
 
